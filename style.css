@@ -20,5 +20,6 @@ p{color: #555;text-align: center;}
 @media(max-width:395px){
    .todo-app{width: 300px;}
     .row{width: 100%;}
-    .row button{width: 100px;margin-left: -20%;}
+    .row button{width: 100px;margin-left: -20%;text-align: center;}
+    
 }
